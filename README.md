@@ -1,10 +1,3 @@
-# Overview
-SiiDのAPIカリキュラムに関するサンプルコードです。  
-
-# 動作画面
-![キャプチャ画像](./img.png)  
-http://localhost:5173/
-
 # 使用技術
 - Node.js
 - [Vite](https://ja.vitejs.dev/)
